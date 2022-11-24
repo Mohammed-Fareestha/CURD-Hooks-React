@@ -1,0 +1,13 @@
+body {
+  background-color: antiquewhite;
+}
+
+.container{
+  margin-left: 3cm;
+  margin-top: 1cm;
+}
+.flex-row{
+  padding: 40px;
+  display: flexbox;
+} 
+

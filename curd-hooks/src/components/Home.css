@@ -1,0 +1,25 @@
+/* Edit*/
+.edit{
+    background-color: azure;
+    color: black;
+}
+.edit:hover {
+    background-color: rgba(150, 212, 228, 0.998);
+  } 
+
+/* Delete*/
+.delete{
+    background-color: red;
+    color: #fff;
+}
+
+.delete:hover {
+    background-color: rgba(71, 4, 4, 0.998);
+  } 
+
+.create{
+  background-color: rgb(80, 202, 80);
+}
+.create:hover{
+  background-color: rgb(5, 63, 5);
+}
